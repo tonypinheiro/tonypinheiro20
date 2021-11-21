@@ -87,7 +87,7 @@ body {
 .social ul li {
     display: inline;
     list-style-type: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 5px;
 }
 
