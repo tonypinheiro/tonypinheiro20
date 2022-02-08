@@ -47,7 +47,7 @@ body {
 /* BOTÃO */
 .botao {
     /* Mudar cor da fonte do botão */
-    color: #000000;
+    color: #ffffff;
     /* Mudar cor de fundo do botão */
     background-color: #0066ff;
     /* Não alterar */
@@ -64,7 +64,7 @@ body {
 
 .botao:hover {
     /* Cor do texto e fundo - Quando tem link */
-    color: #ffffff;
+    color: #000000;
     background-color: #0066ff;
 }
 
